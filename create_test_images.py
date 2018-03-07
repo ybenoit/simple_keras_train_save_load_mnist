@@ -1,4 +1,3 @@
-import keras
 from keras.datasets import mnist
 import os
 import numpy as np

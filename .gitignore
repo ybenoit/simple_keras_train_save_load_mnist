@@ -109,3 +109,5 @@ test_images/
 *.ipynb
 
 .DS_Store
+
+.idea/
